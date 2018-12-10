@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<polar-exercise-data xmlns="http://www.polarpersonaltrainer.com" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.polarpersonaltrainer.com http://www.polarpersonaltrainer.com/schemas/ped-1.0.xsd">  
+  <calendar-items count="1"> 
+    <exercise> 
+      <created>2014-06-28 15:30:59.0</created>  
+      <time>2014-06-20 11:00:01.0</time>  
+      <sport>Running</sport>  
+      <target> 
+        <distance>8000.0</distance>  
+        <duration>00:33:10</duration> 
+      </target>  
+      <result> 
+        <distance>7860.0</distance>  
+        <calories>627</calories>  
+        <duration>00:33:27.800</duration>  
+        <user-settings> 
+          <heart-rate> 
+            <resting>65</resting>  
+            <maximum>195</maximum> 
+          </heart-rate>  
+          <vo2max>61</vo2max>  
+          <weight>68.0</weight>  
+          <height>185.0</height> 
+        </user-settings>  
+        <zones> 
+          <zone index="0"> 
+            <upper>117</upper>  
+            <lower>98</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+          <zone index="1"> 
+            <upper>137</upper>  
+            <lower>117</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+        </zones>  
+        <heart-rate> 
+          <average>184</average>  
+          <maximum>190</maximum> 
+        </heart-rate>  
+        <running-index>53</running-index>  
+        <recording-rate>5</recording-rate>  
+        <fat-consumption>10</fat-consumption>  
+        <laps> 
+          <lap index="0"> 
+            <duration>00:01:59.300</duration>  
+            <heart-rate> 
+              <average>164</average>  
+              <maximum>171</maximum> 
+            </heart-rate>  
+            <speed> 
+              <average>15.2</average> 
+            </speed>  
+            <power/>  
+            <distance>500.0</distance>  
+            <ending-values> 
+              <heart-rate>171</heart-rate>  
+              <speed>17.3</speed> 
+            </ending-values> 
+          </lap>  
+          <lap index="1"> 
+            <duration>00:02:03.900</duration>  
+            <heart-rate> 
+              <average>174</average>  
+              <maximum>176</maximum> 
+            </heart-rate>  
+            <speed> 
+              <average>14.5</average> 
+            </speed>  
+            <power/>  
+            <distance>500.0</distance>  
+            <ending-values> 
+              <heart-rate>176</heart-rate>  
+              <speed>14.3</speed> 
+            </ending-values> 
+          </lap>  
+        </laps>  
+        <speed> 
+          <type>RUNNING</type>  
+          <speed> 
+            <average>14.1</average>  
+            <maximum>22.6</maximum> 
+          </speed>  
+          <cadence> 
+            <average>0</average> 
+          </cadence> 
+        </speed> 
+      </result>  
+      <sport-results> 
+        <sport-result> 
+          <sport>Running</sport>  
+          <distance>7860.0</distance>  
+          <calories>627</calories>  
+          <duration>00:33:27.800</duration>  
+          <user-settings> 
+            <heart-rate> 
+              <resting>65</resting>  
+              <maximum>195</maximum> 
+            </heart-rate>  
+            <vo2max>61</vo2max>  
+            <weight>68.0</weight>  
+            <height>185.0</height> 
+          </user-settings>  
+          <zones> 
+            <zone index="0"> 
+              <upper>117</upper>  
+              <lower>98</lower>  
+              <in-zone>00:00</in-zone> 
+            </zone>  
+            <zone index="1"> 
+              <upper>137</upper>  
+              <lower>117</lower>  
+              <in-zone>00:00</in-zone> 
+            </zone>  
+          </zones>  
+          <heart-rate> 
+            <average>184</average>  
+            <maximum>190</maximum> 
+          </heart-rate>  
+          <recording-rate>5</recording-rate>  
+          <fat-consumption>10</fat-consumption>  
+          <autolaps> 
+            <lap index="0"> 
+              <duration>00:01:59.300</duration>  
+              <heart-rate> 
+                <average>164</average>  
+                <maximum>171</maximum> 
+              </heart-rate>  
+              <speed> 
+                <average>15.2</average> 
+              </speed>  
+              <power/>  
+              <distance>500.0</distance>  
+              <ending-values> 
+                <heart-rate>171</heart-rate>  
+                <speed>17.3</speed> 
+              </ending-values> 
+            </lap>  
+            <lap index="1"> 
+              <duration>00:02:03.900</duration>  
+              <heart-rate> 
+                <average>174</average>  
+                <maximum>176</maximum> 
+              </heart-rate>  
+              <speed> 
+                <average>14.5</average> 
+              </speed>  
+              <power/>  
+              <distance>500.0</distance>  
+              <ending-values> 
+                <heart-rate>176</heart-rate>  
+                <speed>14.3</speed> 
+              </ending-values> 
+            </lap>  
+          </autolaps>  
+          <sport-speed> 
+            <running-index>53.0</running-index> 
+          </sport-speed>  
+        </sport-result> 
+      </sport-results> 
+    </exercise>  
+  </calendar-items> 
+</polar-exercise-data>
